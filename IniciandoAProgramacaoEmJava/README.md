@@ -21,7 +21,7 @@
 |                | **102** |
 |                | **01**  |
 
-<h4>3º Desafio - Folha de Pagamento:</h4> Leia um número inteiro que representa um código de DDD para discagem interurbana. Em seguida, informe à qual cidade o DDD pertence, considerando a tabela abaixo:
+<h4>3º Desafio - DDD:</h4> Leia um número inteiro que representa um código de DDD para discagem interurbana. Em seguida, informe à qual cidade o DDD pertence, considerando a tabela abaixo:
 
 
 ![img](https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1050.png)
